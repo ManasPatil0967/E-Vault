@@ -7,7 +7,7 @@ import { Inter } from 'next/font/google'
 import Head from 'next/head';
 import styled from 'styled-components'
 import Link from 'next/link';
-import AuthContextProvider from '../context/AuthContext';
+//import AuthContextProvider from '../context/AuthContext';
 
 
 export const StyledHeading = styled.h1`
